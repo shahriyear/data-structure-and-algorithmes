@@ -1,5 +1,4 @@
 <?php
-
 $shorted_array = [-2, 3, 4, 7, 8, 9, 11, 13];
 $target = 11;
 echo "Position of {$target} index is ". binary_search($shorted_array, $target);
