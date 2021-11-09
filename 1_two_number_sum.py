@@ -56,7 +56,7 @@ def twoNumberSum2(array, targetSum):
 
 print(twoNumberSum2(array,targetSum))
 
-### Solution 3 [using hash table]
+### Solution 3
 #   O(nLog(n)) time | O(1) space
 
 def twoNumberSum3(array, targetSum):
